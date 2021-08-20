@@ -1,5 +1,8 @@
 # Telecom_market_churn
 
+For Execution Visit: https://deepnote.com/project/Telecommarketchurn-WntRcc2CTQyf8w6JPscKwg/%2FMachine%20Learning%20Classification%20-%20Telecom%20Customers%20Churn%20Prediction.ipynb
+
+
 In this project, I have tried to solve an important problem of telecom industry. In the industry it is very easy to retain an old customer rather than acquiring a new one.
 So telecom company should be interested in prediction for a customer to leave the company's services so that company can make decisions to retain maximum of them.
 I have done some exploratory data analysis on the company's customers and found following:
